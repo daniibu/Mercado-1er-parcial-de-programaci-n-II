@@ -1,0 +1,12 @@
+C:\Users\danie\OneDrive\Escritorio\Escuela2022\Programacion II\MERCADO2\MERCADO2\MERCADO2.Core\bin\Debug\net6.0\MERCADO2.Core.deps.json
+C:\Users\danie\OneDrive\Escritorio\Escuela2022\Programacion II\MERCADO2\MERCADO2\MERCADO2.Core\bin\Debug\net6.0\MERCADO2.Core.dll
+C:\Users\danie\OneDrive\Escritorio\Escuela2022\Programacion II\MERCADO2\MERCADO2\MERCADO2.Core\bin\Debug\net6.0\MERCADO2.Core.pdb
+C:\Users\danie\OneDrive\Escritorio\Escuela2022\Programacion II\MERCADO2\MERCADO2\MERCADO2.Core\obj\Debug\net6.0\MERCADO2.Core.csproj.AssemblyReference.cache
+C:\Users\danie\OneDrive\Escritorio\Escuela2022\Programacion II\MERCADO2\MERCADO2\MERCADO2.Core\obj\Debug\net6.0\MERCADO2.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\OneDrive\Escritorio\Escuela2022\Programacion II\MERCADO2\MERCADO2\MERCADO2.Core\obj\Debug\net6.0\MERCADO2.Core.AssemblyInfoInputs.cache
+C:\Users\danie\OneDrive\Escritorio\Escuela2022\Programacion II\MERCADO2\MERCADO2\MERCADO2.Core\obj\Debug\net6.0\MERCADO2.Core.AssemblyInfo.cs
+C:\Users\danie\OneDrive\Escritorio\Escuela2022\Programacion II\MERCADO2\MERCADO2\MERCADO2.Core\obj\Debug\net6.0\MERCADO2.Core.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\Escritorio\Escuela2022\Programacion II\MERCADO2\MERCADO2\MERCADO2.Core\obj\Debug\net6.0\MERCADO2.Core.dll
+C:\Users\danie\OneDrive\Escritorio\Escuela2022\Programacion II\MERCADO2\MERCADO2\MERCADO2.Core\obj\Debug\net6.0\refint\MERCADO2.Core.dll
+C:\Users\danie\OneDrive\Escritorio\Escuela2022\Programacion II\MERCADO2\MERCADO2\MERCADO2.Core\obj\Debug\net6.0\MERCADO2.Core.pdb
+C:\Users\danie\OneDrive\Escritorio\Escuela2022\Programacion II\MERCADO2\MERCADO2\MERCADO2.Core\obj\Debug\net6.0\ref\MERCADO2.Core.dll
